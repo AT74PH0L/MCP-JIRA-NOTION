@@ -11,6 +11,6 @@
   "license": "ISC",
   "type": "commonjs",
   "dependencies": {
-    "@repo/ai-core": "^1.0.0"
+    "@core/ai": "^1.0.0"
   }
 }

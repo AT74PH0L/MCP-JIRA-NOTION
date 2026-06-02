@@ -1,4 +1,4 @@
-const { askAI } = require('@repo/ai-core');
+const { askAI } = require('@core/ai');
 
 console.log(
   askAI("Summarize Notion page")
